@@ -1,4 +1,4 @@
-# Smart Bookmark App
+# Bookmarkit
 
 A modern, real-time bookmark manager built with Next.js, Supabase, and Tailwind CSS.
 
